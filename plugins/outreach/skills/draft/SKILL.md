@@ -1,4 +1,5 @@
 ---
+allowed-tools: mcp__plugin_outreach_outreach__* WebSearch WebFetch Read
 description: Researches each company and writes a researched three-email cold outreach sequence for the person's contacts, then puts the drafts in their approval queue on the Outreach website. Use when the person asks to draft emails, draft their contacts, write outreach, do their cold emails, or continue drafting.
 ---
 

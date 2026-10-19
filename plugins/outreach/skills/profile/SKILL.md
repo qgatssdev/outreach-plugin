@@ -1,4 +1,5 @@
 ---
+allowed-tools: mcp__plugin_outreach_outreach__* Read
 description: Sets up or updates the person's Outreach profile, the record of their real roles, numbers and stories that every cold email draws on. Use when the person wants to set up their profile, add their CV, update their experience, or when drafting says the profile is not ready.
 ---
 
