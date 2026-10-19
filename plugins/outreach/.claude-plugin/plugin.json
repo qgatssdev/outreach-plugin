@@ -1,0 +1,30 @@
+{
+  "name": "outreach",
+  "displayName": "Outreach",
+  "version": "0.2.0",
+  "description": "Researches companies and drafts cold email sequences from your real proof, then queues them for your approval. Sending, follow-ups and reply tracking happen on the Outreach website.",
+  "author": {
+    "name": "Uche Omodu"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "cold email",
+    "outreach",
+    "job search"
+  ],
+  "userConfig": {
+    "access_token": {
+      "type": "string",
+      "title": "Access token",
+      "description": "From the Claude Code page of the Outreach website. It starts with otk_",
+      "required": true,
+      "sensitive": true
+    },
+    "server_url": {
+      "type": "string",
+      "title": "Outreach address (leave as it is)",
+      "description": "Only change this if you were told to.",
+      "default": "http://localhost:4000"
+    }
+  }
+}

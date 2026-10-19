@@ -1,0 +1,12 @@
+{
+  "name": "outreach",
+  "description": "The Outreach plugin for Claude Code",
+  "owner": { "name": "Uche Omodu" },
+  "plugins": [
+    {
+      "name": "outreach",
+      "source": "./plugins/outreach",
+      "description": "Research companies and draft cold email sequences from your real proof, queued for your approval"
+    }
+  ]
+}
